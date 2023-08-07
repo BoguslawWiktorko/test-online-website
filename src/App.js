@@ -11,7 +11,8 @@ function App() {
         </p>
         <p>Zenek</p>  
         <>aktualizacja</>
-  
+
+<p></p>
         <a
           className="App-link"
           href="https://reactjs.org"
